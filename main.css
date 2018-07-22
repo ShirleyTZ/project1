@@ -109,6 +109,7 @@ ul,li {
     margin: auto;
     padding-top: 10px;
     overflow: hidden;
+    position： relative；
 }
 
 #articleLeft {
