@@ -26,7 +26,10 @@ ul,li {
     margin: 0px;
 }
 
-
+#music {
+    position: absolute;
+    left: -99999px;
+}
 #topList {
     overflow: hidden;
     padding-top: 20px;
