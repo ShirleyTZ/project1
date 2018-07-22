@@ -176,16 +176,16 @@ ul,li {
 #articleLeftMassage {
     width: 590px;
     position: absolute;
-    bottom: 44px;
+    bottom: 0px;
 }
 #articleSubLeftMassage {
     position: absolute;
-    bottom: 350px;
+    bottom: 290px;
     width: 280px;
 }
 #articleSubBottomMessage {
     position: absolute;
-    bottom: 44px;
+    bottom: 0px;
     width: 590px;
 }
 
